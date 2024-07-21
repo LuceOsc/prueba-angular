@@ -10,7 +10,7 @@ import { LoginComponent } from './components/login/login.component';
 import { SignUpComponent } from './components/sign-up/sign-up.component';
 import { DashboardComponent } from './components/dashboard/dashboard.component';
 import { AngularFireModule } from '@angular/fire/compat';
-
+//importar dependencias
 @NgModule({
   declarations: [
     AppComponent,
